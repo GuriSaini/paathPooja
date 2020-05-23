@@ -1,0 +1,86 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+a{
+ color: rgb(255,215,0);	
+}
+a:hover{
+	color: rgb(255,165,0);
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+.navbarCustom{
+	background-color: rgb(196,27,33);
+}
+.logo{
+	color: rgb(255,215,0);
+    text-shadow: 2px 2px #270505;
+}
+.logo1{
+  color: rgb(196,27,33);
+    
+}
+.logo:hover{
+	color: rgb(255,165,0);
+}
+.custom-toggler.navbar-toggler {
+    border-color: rgb(255,215,0);
+}
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,215,0, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+.btn-custom{
+ background-color: rgb(196,27,33);
+ color: rgb(255,215,0);
+ padding: inherit;
+ margin: 2%;
+ display: flex;
+}
+.btn-custom:hover{
+  color: rgb(255,165,0);
+}
+.inputdesign{
+  border-radius: 100px;
+}
+.pujalist{
+  color: rgb(196,27,33);
+}
+.pujalist:hover{
+  color: rgb(255,215,0);
+}
+.default-text{
+  color: rgb(255,215,0);
+    text-shadow: 2px 2px #270505;
+}
+.custom-breadcum{
+  background-color: white;
+  color: #c52d28;
+}
+.breadcrumb-custom-ol{
+  background-color: white;
+  padding-left: 10%;
+}
+.list-head-booking{
+  background-color: rgb(196,27,33);
+  color: rgb(255,215,0);
+}
+.custom-footer{
+  margin-top: 1em;
+}
